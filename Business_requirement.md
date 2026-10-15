@@ -1,29 +1,38 @@
-1. Coffee Consumers Count
-How many people in each city are estimated to consume coffee, given that 25% of the population does?
+# Business Requirements
 
-2. Total Revenue from Coffee Sales
-What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+## 1. Coffee Consumers Count
+Estimate the number of coffee consumers in each city, assuming that 25% of the city's population consumes coffee.
 
-3. Sales Count for Each Product
-How many units of each coffee product have been sold?
+## 2. Total Revenue from Coffee Sales
+Calculate the total revenue generated from coffee sales across all cities during the fourth quarter of 2023 (October–December).
 
-4. Average Sale Per Customer by City
-What is the average sales amount per customer in each city?
+## 3. Sales Count for Each Product
+Calculate the number of recorded sales transactions for each coffee product.
 
-5. City Population and Coffee Consumers
-Provide a list of cities along with their populations and estimated coffee consumers.
+## 4. Average Sale per Customer by City
+Calculate the average sales revenue per unique customer in each city.
 
-6. Top Selling Products by City
-What are the top 3 selling products in each city based on sales volume?
+## 5. City Population and Estimated Coffee Consumers
+Retrieve each city's name and population, along with the estimated number of coffee consumers, assuming a 25% coffee consumption rate.
 
-7. Customer Segmentation by City
-How many unique customers are there in each city who have purchased coffee products?
+## 6. Top-Selling Products by City
+Identify the top three coffee products in each city based on the number of recorded sales transactions.
 
-8. Avg Sale and Avg Rent
-Find each city and their average sale per customer and avg rent per customer
+## 7. Customer Segmentation by City
+Calculate the number of unique customers in each city who have purchased coffee products.
 
-9. Monthly Sales Growth
-Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+## 8. Average Sales and Rent per Customer
+For each city, calculate:
+- Average sales revenue per customer.
+- Average rent per customer.
 
-10. Market Potential Analysis
-Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
+## 9. Monthly Sales Growth
+Calculate the month-over-month percentage growth or decline in sales revenue for each city.
+
+## 10. Market Potential Analysis
+Identify the top three cities by total sales revenue and report the following metrics for each city:
+- City name
+- Total sales revenue
+- Total estimated rent
+- Total number of customers
+- Estimated number of coffee consumers
